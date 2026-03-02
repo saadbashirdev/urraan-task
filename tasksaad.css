@@ -1,0 +1,50 @@
+header{
+    background-color: rgb(231, 238, 244);
+    width: 99%;
+    height: 12vh;
+    margin: 5px;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+nav{
+      background-color: aliceblue;
+    width: 99%;
+    height: 09vh;
+    margin: 5px;
+justify-content: center;
+align-items: center;
+display: flex;
+
+
+}
+section{
+    display: flex;
+}
+.box1{
+    height: 60vh;
+    width: 18%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    justify-content: center;
+}
+.box2{
+    height: 60vh;
+    width: 62%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ footer{
+    background-color: aliceblue;
+    width: 99%;
+    height: 09vh;
+    margin: 5px;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
